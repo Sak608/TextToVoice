@@ -61,6 +61,7 @@ button{
     cursor: pointer;
     display: flex;
     align-items: center;
+    display: inline;
 }
 button img{
     width: 16px;
@@ -99,6 +100,7 @@ select{
     button{
         height: 40px;
         width: 100px;
+        display: inline;
     }
 
 }
